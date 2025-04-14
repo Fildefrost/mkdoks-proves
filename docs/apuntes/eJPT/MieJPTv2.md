@@ -4,7 +4,6 @@
 
 - **Curl & Wget**
 
-
     - CURL
         
         Curl por GET

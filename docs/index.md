@@ -16,7 +16,7 @@ encantará saberlo.
 
 ## Contacto
 
-Puedes encontrarme en:
+Puedes encontrarme en
 
 - [GitHub](https://github.com/fildefrost)
 - [LinkedIn](https://linkedin.com/in/jordi-ciber)
