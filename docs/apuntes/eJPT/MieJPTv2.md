@@ -764,7 +764,7 @@ auxiliary/scanner/smtp/smtp_enum
 
 ### Port  80, 443 | Pentesting Web
 
-[**Web Pentesting**](/apuntes/eJPT/WebPentesting.md)
+[**Web Pentesting**](WebPentesting.md)
 
 
 ### Port  137,138,139 | NetBios
