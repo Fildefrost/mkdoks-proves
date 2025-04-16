@@ -88,20 +88,20 @@ nav:
           - Root Me: Writeup-ctfs/Tryhackme/Root Me.md
           - Simple CTF: Writeup-ctfs/Tryhackme/Simple CTF.md
           - Steel Mountain: Writeup-ctfs/Tryhackme/Steel Mountain.md
-  - apuntes:
+  - Apuntes:
       - Curso Python:
         - Cheatsheet:
-          - Bolean Operators: apuntes/Curso Python/CheatSheet/Bolean Operators.md
-          - Data Types: apuntes/Curso Python/CheatSheet/Data Types.md
-          - Functions And Conditionals: apuntes/Curso Python/CheatSheet/Functions and Conditionals.md
-          - Loops: apuntes/Curso Python/CheatSheet/Loops.md
-          - Operations With Data Types: apuntes/Curso Python/CheatSheet/Operations with Data Types.md
-          - User Inputs: apuntes/Curso Python/CheatSheet/User Inputs.md
-        - Notas: apuntes/Curso Python/python-course.md
+          - Bolean Operators: Apuntes/Curso Python/CheatSheet/Bolean Operators.md
+          - Data Types: Apuntes/Curso Python/CheatSheet/Data Types.md
+          - Functions And Conditionals: Apuntes/Curso Python/CheatSheet/Functions and Conditionals.md
+          - Loops: Apuntes/Curso Python/CheatSheet/Loops.md
+          - Operations With Data Types: Apuntes/Curso Python/CheatSheet/Operations with Data Types.md
+          - User Inputs: Apuntes/Curso Python/CheatSheet/User Inputs.md
+        - Notas: Apuntes/Curso Python/python-course.md
       - eJPT:
-        -  apuntes/eJPT/MieJPTv2.md
-        -  apuntes/eJPT/WebPentesting.md
-      - Sql: apuntes/sql.md
+        -  Apuntes/eJPT/MieJPTv2.md
+        -  Apuntes/eJPT/WebPentesting.md
+      - Sql: Apuntes/sql.md
  
 extra:
   social:

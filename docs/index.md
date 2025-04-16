@@ -23,15 +23,16 @@ Documentación paso a paso de máquinas y retos.
 
 ➡ [Ir a writeups](Writeup-ctfs/info.md)
 
-### 🛠️ **Herramientas**
-Comandos y configuraciones útiles para pentesters.
+### 🛠️ **Recursos**
+Herramientas, notas y recursos útiles para pentesters.
 
-➡ [Ir a herramientas]
+➡ [Ir a Recursos](Recursos/info.md)
+
 
 ### 📚 **Apuntes y Cheatsheets**
 Atajos, comandos y sintaxis que uso frecuentemente.
 
-➡ [Ir a cheatsheets](apuntes/info.md)
+➡ [Ir a documentación](Apuntes/info.md)
 
 ---
 
@@ -43,5 +44,5 @@ Atajos, comandos y sintaxis que uso frecuentemente.
 ---
 
 <p align="center">
-  <em>Sígueme en <a href="https://github.com/fildefrost">GitHub</a> o conéctate por <a href="https://www.linkedin.com/in/jodi-ciber/">LinkedIn</a>.</em>
+  <em>Sígueme en <a href="https://github.com/fildefrost">GitHub</a> o encuéntrame en <a href="https://www.linkedin.com/in/jodi-ciber/">LinkedIn</a>.</em>
 </p>
