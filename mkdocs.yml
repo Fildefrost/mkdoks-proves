@@ -71,7 +71,9 @@ nav:
           - Vaccine: Writeup-ctfs/HackTheBox/Vaccine.md
           - Validation: Writeup-ctfs/HackTheBox/Validation.md
       - 💻 TheHackerLabs:
-          - Cyberpunk: Writeup-ctfs/TheHackerLabs/Cyberpunk.md
+         - BocataCalamares: Writeup-ctfs/TheHackerLabs/BocataCalamares.md
+         - CanHackMe: Writeup-ctfs/TheHackerLabs/CanHackMe.md
+         - CyberPunk: Writeup-ctfs/TheHackerLabs/CyberPunk.md 
       - 💻 Tryhackme:
           - Basic Pentesting: Writeup-ctfs/Tryhackme/Basic Pentesting.md
           - Capstone (Privesc): Writeup-ctfs/Tryhackme/Capstone (Privesc).md
