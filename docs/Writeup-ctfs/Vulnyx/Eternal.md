@@ -1,13 +1,21 @@
 # Eternal
 
-Plataforma: Vulnyx
-OS: Windows
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 15 de marzo de 2025 0:38
-IP: 192.168.0.12
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Windows
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 15 de marzo de 2025 0:38
+>
+> 🌐 **IP:** `192.168.0.12`
+
+---
+
 
 ## Recopilación de información
 

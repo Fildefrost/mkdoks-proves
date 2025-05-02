@@ -13,3 +13,7 @@ Proceso para subir writeups;
 - Copiar los archivos dentro de la carpeta : \docs\notion_export
 - Ejecutar el script : Python .\notion_export.py "Plataforma"
 - Copiar el contenido del nav_generated.yml que se ha creado en el \mkdocs.yml 
+
+Mejorar cabecera
+
+Python .\mejorar_cabeceras.py --force

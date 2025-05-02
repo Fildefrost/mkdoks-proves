@@ -1,13 +1,21 @@
 # Infected
 
-Plataforma: Vulnyx
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 27 de abril de 2025 20:11
-IP: 192.168.0.14
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 27 de abril de 2025 20:11
+>
+> 🌐 **IP:** `192.168.0.14`
+
+---
+
 
 ## Recopilación de información
 

@@ -1,13 +1,21 @@
 # CanHackMe
 
-Plataforma: HackersLabs
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 9 de febrero de 2025 17:07
-IP: 192.168.0.137
+> 🧠 **Plataforma:** HackersLabs
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 9 de febrero de 2025 17:07
+>
+> 🌐 **IP:** `192.168.0.137`
+
+---
+
 
 ## Recopilación de información
 

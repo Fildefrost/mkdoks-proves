@@ -1,13 +1,21 @@
 # Devel
 
-Plataforma: HackTheBox
-OS: Windows
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 2 de febrero de 2025 15:36
-IP: 10.10.10.5
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Windows
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 2 de febrero de 2025 15:36
+>
+> 🌐 **IP:** `10.10.10.5`
+
+---
+
 
 ## Recopilación de información
 

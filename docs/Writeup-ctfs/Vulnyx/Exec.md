@@ -1,13 +1,21 @@
 # Exec
 
-Plataforma: Vulnyx
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 6 de abril de 2025 20:42
-IP: 192.168.0.187
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 6 de abril de 2025 20:42
+>
+> 🌐 **IP:** `192.168.0.187`
+
+---
+
 
 ## Recopilación de información
 

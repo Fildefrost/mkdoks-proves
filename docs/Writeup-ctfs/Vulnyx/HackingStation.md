@@ -1,13 +1,21 @@
 # HackingStation
 
-Plataforma: Vulnyx
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 13 de abril de 2025 21:16
-IP: 192.168.0.63
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 13 de abril de 2025 21:16
+>
+> 🌐 **IP:** `192.168.0.63`
+
+---
+
 
 ## Recopilación de información
 

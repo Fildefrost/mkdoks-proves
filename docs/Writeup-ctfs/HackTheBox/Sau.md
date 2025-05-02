@@ -1,13 +1,21 @@
 # Sau
 
-Plataforma: HackTheBox
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 23 de enero de 2025 20:23
-IP: 10.10.11.224
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 23 de enero de 2025 20:23
+>
+> 🌐 **IP:** `10.10.11.224`
+
+---
+
 
 ## Recopilación de información
 

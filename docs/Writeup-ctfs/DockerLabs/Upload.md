@@ -1,13 +1,21 @@
 # Upload
 
-Plataforma: Dockerlabs
-OS: Linux
-Level: Very Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 4 de diciembre de 2024 21:01
-IP: 172.17.0.2
+> 🧠 **Plataforma:** Dockerlabs
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Very Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 4 de diciembre de 2024 21:01
+>
+> 🌐 **IP:** `172.17.0.2`
+
+---
+
 
 ## Recopilación de información
 

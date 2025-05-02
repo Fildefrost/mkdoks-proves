@@ -1,13 +1,21 @@
 # Admin
 
-Plataforma: Vulnyx
-OS: Windows
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 12 de abril de 2025 17:36
-IP: 192.168.0.99
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Windows
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 12 de abril de 2025 17:36
+>
+> 🌐 **IP:** `192.168.0.99`
+
+---
+
 
 ## Recopilación de información
 

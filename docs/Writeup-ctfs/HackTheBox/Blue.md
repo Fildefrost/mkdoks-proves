@@ -1,13 +1,21 @@
 # Blue
 
-Plataforma: HackTheBox
-OS: Windows
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 26 de enero de 2025 16:36
-IP: 10.10.10.40
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Windows
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 26 de enero de 2025 16:36
+>
+> 🌐 **IP:** `10.10.10.40`
+
+---
+
 
 ## Recopilación de información
 

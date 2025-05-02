@@ -1,13 +1,21 @@
 # Keeper
 
-Plataforma: HackTheBox
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 30 de enero de 2025 21:29
-IP: 10.10.11.227
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 30 de enero de 2025 21:29
+>
+> 🌐 **IP:** `10.10.11.227`
+
+---
+
 
 ## Recopilación de información
 

@@ -1,13 +1,21 @@
 # Experience
 
-Plataforma: Vulnyx
-OS: Windows
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 26 de enero de 2025 15:58
-IP: 192.168.0.150
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Windows
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 26 de enero de 2025 15:58
+>
+> 🌐 **IP:** `192.168.0.150`
+
+---
+
 
 ## Recopilación de información
 

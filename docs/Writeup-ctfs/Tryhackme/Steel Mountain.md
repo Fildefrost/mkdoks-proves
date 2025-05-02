@@ -1,13 +1,21 @@
 # Steel Mountain
 
-Plataforma: TryHackMe
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 15 de diciembre de 2024 19:06
-IP: 10.10.37.44
+> 🧠 **Plataforma:** TryHackMe
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 15 de diciembre de 2024 19:06
+>
+> 🌐 **IP:** `10.10.37.44`
+
+---
+
 
 # **Reconocimiento (Recon)**
 

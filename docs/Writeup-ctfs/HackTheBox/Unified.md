@@ -1,13 +1,21 @@
 # Unified
 
-Plataforma: HackTheBox
-OS: Linux
-Level: Very Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 29 de diciembre de 2024 20:52
-IP: 10.129.164.42
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Very Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 29 de diciembre de 2024 20:52
+>
+> 🌐 **IP:** `10.129.164.42`
+
+---
+
 
 ## Recopilación de información
 

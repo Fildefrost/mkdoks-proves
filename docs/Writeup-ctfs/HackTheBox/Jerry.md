@@ -1,13 +1,21 @@
 # Jerry
 
-Plataforma: HackTheBox
-OS: Windows
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 2 de diciembre de 2024 13:42
-IP: 10.10.10.95
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Windows
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 2 de diciembre de 2024 13:42
+>
+> 🌐 **IP:** `10.10.10.95`
+
+---
+
 
 ## Recopilación de información
 

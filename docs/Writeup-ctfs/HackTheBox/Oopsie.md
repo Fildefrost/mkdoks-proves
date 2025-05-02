@@ -1,13 +1,21 @@
 # Oopsie
 
-Plataforma: HackTheBox
-OS: Linux
-Level: Very Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 24 de diciembre de 2024 16:01
-IP: 10.129.105.138
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Very Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 24 de diciembre de 2024 16:01
+>
+> 🌐 **IP:** `10.129.105.138`
+
+---
+
 
 ## Recopilación de información
 

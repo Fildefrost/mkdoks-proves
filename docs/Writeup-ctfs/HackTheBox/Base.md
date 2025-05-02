@@ -1,6 +1,21 @@
 # Base
 
-Plataforma: HackTheBox OS: Linux Level: Very Easy Status: Done Complete: Yes EJPT: yes Created time: 15 de enero de 2025 21:11 IP: 10.129.127.10
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Very Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 15 de enero de 2025 21:11
+>
+> 🌐 **IP:** `10.129.127.10`
+
+---
+
 
 ## Recopilación de información
 

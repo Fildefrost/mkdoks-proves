@@ -1,13 +1,21 @@
 # Hosting
 
-Plataforma: Vulnyx
-OS: Windows
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 5 de abril de 2025 17:01
-IP: 192.168.0.63
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Windows
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 5 de abril de 2025 17:01
+>
+> 🌐 **IP:** `192.168.0.63`
+
+---
+
 
 ## Recopilación de información
 

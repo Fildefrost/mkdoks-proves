@@ -1,13 +1,21 @@
 # Agent
 
-Plataforma: Vulnyx
-OS: Linux
-Level: Very Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 5 de abril de 2025 15:41
-IP: 192.168.0.214
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Very Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 5 de abril de 2025 15:41
+>
+> 🌐 **IP:** `192.168.0.214`
+
+---
+
 
 ## Recopilación de información
 

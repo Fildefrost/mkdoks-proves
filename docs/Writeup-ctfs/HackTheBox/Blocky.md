@@ -1,13 +1,21 @@
 # Blocky
 
-Plataforma: HackTheBox
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 25 de enero de 2025 16:39
-IP: 10.10.10.37
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 25 de enero de 2025 16:39
+>
+> 🌐 **IP:** `10.10.10.37`
+
+---
+
 
 ## Recopilación de información
 

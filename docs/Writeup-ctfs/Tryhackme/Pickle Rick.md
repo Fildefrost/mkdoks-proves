@@ -1,13 +1,21 @@
 # Pickle Rick
 
-Plataforma: TryHackMe
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 15 de diciembre de 2024 18:59
-IP: 10.10.21.47
+> 🧠 **Plataforma:** TryHackMe
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 15 de diciembre de 2024 18:59
+>
+> 🌐 **IP:** `10.10.21.47`
+
+---
+
 
 # **Reconocimiento**
 

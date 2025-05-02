@@ -1,13 +1,21 @@
 # Archetype
 
-Plataforma: HackTheBox
-OS: Windows
-Level: Very Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 22 de diciembre de 2024 15:44
-IP: 10.129.51.6
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Windows
+>
+> 🎯 **Nivel:** Very Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 22 de diciembre de 2024 15:44
+>
+> 🌐 **IP:** `10.129.51.6`
+
+---
+
 
 ## Recopilación de información
 

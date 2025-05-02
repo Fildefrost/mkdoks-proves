@@ -1,13 +1,21 @@
 # Diff3r3ntS3c
 
-Plataforma: Vulnyx
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 30 de abril de 2025 23:53
-IP: 192.168.0.236
+> 🧠 **Plataforma:** Vulnyx
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 30 de abril de 2025 23:53
+>
+> 🌐 **IP:** `192.168.0.236`
+
+---
+
 
 ## Recopilación de información
 

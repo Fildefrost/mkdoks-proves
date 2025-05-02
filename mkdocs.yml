@@ -80,7 +80,6 @@ nav:
           - Basic Pentesting: Writeup-ctfs/Tryhackme/Basic Pentesting.md
           - Capstone (Privesc): Writeup-ctfs/Tryhackme/Capstone (Privesc).md
           - ColdBox: Writeup-ctfs/Tryhackme/ColdBox.md
-          - FownSniff: Writeup-ctfs/Tryhackme/FownSniff.md
           - Pickle Rick: Writeup-ctfs/Tryhackme/Pickle Rick.md
           - Root Me: Writeup-ctfs/Tryhackme/Root Me.md
           - Simple CTF: Writeup-ctfs/Tryhackme/Simple CTF.md
@@ -95,6 +94,8 @@ nav:
           - HackingStation: Writeup-ctfs/Vulnyx/HackingStation.md
           - Hosting: Writeup-ctfs/Vulnyx/Hosting.md
           - Infected: Writeup-ctfs/Vulnyx/Infected.md
+      - 💻 Vulnhub:
+          - Experience: Writeup-ctfs/Vulnhub/Experience.md
   - Apuntes: 
       - Apuntes/info.md
       - Curso Python:

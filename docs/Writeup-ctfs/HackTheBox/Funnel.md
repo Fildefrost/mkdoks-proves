@@ -1,13 +1,21 @@
 # Funnel
 
-Plataforma: HackTheBox
-OS: Linux
-Level: Very Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 7 de enero de 2025 21:15
-IP: 10.129.88.226
+> 🧠 **Plataforma:** HackTheBox
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Very Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 7 de enero de 2025 21:15
+>
+> 🌐 **IP:** `10.129.88.226`
+
+---
+
 
 ## Recopilación de información
 

@@ -1,13 +1,21 @@
 # ColdBox
 
-Plataforma: TryHackMe
-OS: Linux
-Level: Easy
-Status: Done
-Complete: Yes
-EJPT: yes
-Created time: 30 de diciembre de 2024 15:45
-IP: 10.10.134.48
+> 🧠 **Plataforma:** TryHackMe
+>
+> 💻 **Sistema operativo:** Linux
+>
+> 🎯 **Nivel:** Easy
+>
+> ✅ **Estado:** Done
+>
+> 📘 **Curso eJPT:** yes
+>
+> 🗓️ **Fecha de creación:** 30 de diciembre de 2024 15:45
+>
+> 🌐 **IP:** `10.10.134.48`
+
+---
+
 
 ## Recopilación de información
 
