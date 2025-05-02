@@ -24,7 +24,9 @@ theme:
 plugins:
   - search
   - blog:
-      enabled: false
+      enabled: true
+      blog_dir: Blog
+      post_template: blog_post.html
 nav:
   - Inicio: index.md
   - Writeup-ctfs:
@@ -94,8 +96,7 @@ nav:
           - HackingStation: Writeup-ctfs/Vulnyx/HackingStation.md
           - Hosting: Writeup-ctfs/Vulnyx/Hosting.md
           - Infected: Writeup-ctfs/Vulnyx/Infected.md
-      - 💻 Vulnhub:
-          - Experience: Writeup-ctfs/Vulnhub/Experience.md
+      
   - Apuntes: 
       - Apuntes/info.md
       - Curso Python:
@@ -114,7 +115,7 @@ nav:
   - Recursos: 
       - Recursos/info.md
   - Blog:
-      - blog/index.md
+      - Blog/Segona-entrada.md
 extra:
   social:
     - icon: fontawesome/brands/github-alt

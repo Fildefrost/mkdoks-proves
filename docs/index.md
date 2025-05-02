@@ -14,9 +14,11 @@ objetivo es trabajar la metodología del reporte y tener un sitio donde mostrar 
 a pesar de lo anterior, el contenido de este blog puede servir de ayuda a alguien, me
 encantará saberlo.
 </p>
+
+
 ---
 
-## 📁 Categorías
+## 📁 Categorias del Blog
 
 ### 🔍 **Writeups**
 Documentación paso a paso de máquinas y retos.
