@@ -7,7 +7,7 @@ from pathlib import Path
 from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parent
-EXPORT_DIR = ROOT / "notion_exports"
+EXPORT_DIR = ROOT / "notion_export"
 WRITEUPS_DIR = ROOT / "Writeup-ctfs"
 NAV_FILE = ROOT / "nav_generated.yml"
 
@@ -62,6 +62,7 @@ def procesar_writeup(md_path: Path, plataforma: str, resumen: list, nav_dict: di
     content = re.sub(r"!\[(.*?)\]\((.*?)\)", replace_img_path, content)
 
     # Escribir el nuevo archivo .md
+    md_dest.parent.mkdir(parents=True, exist_ok=True)  # 👈 CREA la carpeta si no existe
     md_dest.write_text(content, encoding="utf-8")
 
     # Limpiar carpeta de imágenes original

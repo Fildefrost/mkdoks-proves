@@ -23,6 +23,8 @@ theme:
 
 plugins:
   - search
+  - blog:
+      enabled: false
 nav:
   - Inicio: index.md
   - Writeup-ctfs:
@@ -83,6 +85,16 @@ nav:
           - Root Me: Writeup-ctfs/Tryhackme/Root Me.md
           - Simple CTF: Writeup-ctfs/Tryhackme/Simple CTF.md
           - Steel Mountain: Writeup-ctfs/Tryhackme/Steel Mountain.md
+      - 💻 Vulnyx:
+          - Admin: Writeup-ctfs/Vulnyx/Admin.md
+          - Agent: Writeup-ctfs/Vulnyx/Agent.md
+          - Diff3r3ntS3c: Writeup-ctfs/Vulnyx/Diff3r3ntS3c.md
+          - Eternal: Writeup-ctfs/Vulnyx/Eternal.md
+          - Exec: Writeup-ctfs/Vulnyx/Exec.md
+          - Experience: Writeup-ctfs/Vulnyx/Experience.md
+          - HackingStation: Writeup-ctfs/Vulnyx/HackingStation.md
+          - Hosting: Writeup-ctfs/Vulnyx/Hosting.md
+          - Infected: Writeup-ctfs/Vulnyx/Infected.md
   - Apuntes: 
       - Apuntes/info.md
       - Curso Python:
@@ -100,6 +112,8 @@ nav:
       - Sql: Apuntes/SQL/sql.md
   - Recursos: 
       - Recursos/info.md
+  - Blog:
+      - blog/index.md
 extra:
   social:
     - icon: fontawesome/brands/github-alt
